@@ -43,6 +43,7 @@ As a junior developer on a web development team, you are tasked with ensuring th
 6. **BONUS CHALLENGE: Handle Edge Cases and Optimize Tests**
    - Test for edge cases such as invalid inputs or missing elements.
    - Refactor tests and functions to improve readability and maintainability.
+   
 
 ## BONUS: Additional Techniques
 
